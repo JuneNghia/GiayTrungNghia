@@ -144,8 +144,8 @@
                         <div class="py-1">
                             <h6>Thông tin lưu ý :</h6>
                             <p>Hoàn tiền 100% nếu chất lượng sản phẩm không như cam kết</p>
-                            <p>Phản hồi chất lượng dịch vụ: 0938.284.482</p>
-                            <p>Hotline: <b>0888 663 333</b> | Hoạt động từ 8h30 đến 18h00 (T2-T7)</p>
+                            <p>Phản hồi chất lượng dịch vụ: 0934.945.803</p>
+                            <p>Hotline: <b>0939 79 79 79</b> | Hoạt động từ 8h30 đến 18h00 (T2-T7)</p>
                         </div>
                     </div>
                 </div>
